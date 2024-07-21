@@ -77,7 +77,6 @@ The `joint_state_publisher` node is used to publish the state of the robot's joi
     roslaunch robot_arm_pkg check_motors.launch
     roslaunch robot_arm_pkg check_motors_gazebo.launch
     rosrun robot_arm_pkg joint_states_to_gazebo.py
-
     ```
 
 #### Pros and Cons
