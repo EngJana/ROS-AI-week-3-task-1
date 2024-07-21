@@ -2,7 +2,7 @@
 
 smart methods internship - ROS and AI discipline 
 
-# Arduino Robot Arm with ROS
+# Controlling Arduino Robot Arm with ROS (joint state publisher and MoveIt)
 
 This repository provides the setup and instructions to simulate and visualize an Arduino robot arm using Gazebo and RViz. Additionally, it explains different methods of controlling the robot arm: using `joint_state_publisher` and using MoveIt with kinematics.
 
