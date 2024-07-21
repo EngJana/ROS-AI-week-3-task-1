@@ -20,7 +20,6 @@ This repository provides the setup and instructions to simulate and visualize an
   - [Mac OS X](#mac-os-x)
   - [Linux](#linux)
   - [Ubuntu on WSL](#ubuntu-on-wsl)
-- [License](#license)
 
 ## Prerequisites
 
