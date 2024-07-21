@@ -22,7 +22,7 @@ This repository provides the setup and instructions to simulate and visualize an
 - ROS (Robot Operating System) Noetic
 - Gazebo
 - RViz
-- MoveIt (for advanced control)
+- MoveIt
 
 ## Setup
 
@@ -72,6 +72,7 @@ To build Arduino from source, follow the instructions for your operating system:
 ### Controlling the Robot Arm with `joint_state_publisher`
 
 The `joint_state_publisher` node is used to publish the state of the robot's joints. This method is simpler and primarily used for visualization and basic control.
+
     ```sh
     roslaunch robot_arm_pkg check_motors.launch
     roslaunch robot_arm_pkg check_motors_gazebo.launch
