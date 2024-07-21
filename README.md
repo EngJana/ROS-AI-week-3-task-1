@@ -88,6 +88,10 @@ The `joint_state_publisher` node is used to publish the state of the robot's joi
 - **Cons**:
   - Limited control capabilities.
   - Not suitable for complex motion planning.
+ 
+    <img width="959" alt="ros11" src="https://github.com/user-attachments/assets/4d340bd7-074f-47bc-936b-81b61903aaf8">
+   <img width="956" alt="ros22" src="https://github.com/user-attachments/assets/980ca5d3-4df9-46d1-a156-6833fc9d1d4b">
+   <img width="959" alt="ros33" src="https://github.com/user-attachments/assets/e031c79f-5565-4035-b648-246734cd8091">
 
 ### Controlling the Robot Arm with MoveIt and Kinematics
 
@@ -117,3 +121,10 @@ MoveIt is a powerful motion planning framework for ROS. It provides advanced too
 - **Cons**:
   - More complex to set up and configure.
   - Requires understanding of kinematics and motion planning concepts.
+ 
+    <img width="959" alt="ros44" src="https://github.com/user-attachments/assets/079be084-fc3c-411d-978a-b751e13c421e">
+    <img width="959" alt="ros55" src="https://github.com/user-attachments/assets/20e09724-c5ae-4c22-86bb-9b7fbfe86f87">
+    <img width="959" alt="ros77" src="https://github.com/user-attachments/assets/aefb01a5-d73f-4863-8ec8-67ff32dc05b4">
+
+
+
