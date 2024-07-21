@@ -1,6 +1,6 @@
 # ROS-AI-week-3-task-1
 
-smart methods internship - ROS and AI desapline 
+smart methods internship - ROS and AI discipline 
 
 # Arduino Robot Arm with ROS
 
